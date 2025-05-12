@@ -4,7 +4,7 @@
 
 Me chamo Maycon Gabriel, tenho 20 anos e moro em São José do Rio Preto - SP. Desde os meus 10 anos sou apaixonado por tecnologia, comecei gostande sobre hacking e assim que inicei os estudos me deparei com um mar de opções! Atualmente estudo Java. ☕
 
-<p align="left">
+<!-- <p align="left">
     <a href="https://github.com/maycony?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -19,7 +19,7 @@ Me chamo Maycon Gabriel, tenho 20 anos e moro em São José do Rio Preto - SP. D
             src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-</p>
+</p> -->
 
 ---
 
